@@ -16,7 +16,7 @@
 
 ``` rpmdev-setuptree ```  - создаение в домашней директории дерева каталогов для сборки
 
-далее в директорию httpd-2.4.54/srclib нужно загрузить и переименовать библиотеки:
+далее в директорию httpd-2.4.54/srclib нужно загрузить, распаковать и переименовать библиотеки:
 - APR https://dlcdn.apache.org//apr/apr-1.7.0.tar.gz в - "apr"
 - APR-UTIL https://dlcdn.apache.org//apr/apr-util-1.6.1.tar.gz в "apr-util"
 
